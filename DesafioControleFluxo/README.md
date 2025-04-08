@@ -1,3 +1,3 @@
 ## DIO - Trilha Java Básico
 
-Desafio: controle de fluxo e exceptions.
+Desafio: Praticando controles de fluxo e exceptions.
